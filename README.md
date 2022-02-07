@@ -12,9 +12,7 @@ make clean all
 ./wordle-solver
 ```
 ## TODO
-```
-[ ] Use huffman encoding (think that's the right term) to choose the best word out of a list
-[ ] Allow for entering in a board
-[ ] Fix bug with (somewhat?) random segfaults
-[ ] Implement CLI version of game
-```
+- [ ] Use huffman encoding (think that's the right term) to choose the best word out of a list
+- [ ] Allow for entering in a board
+- [ ] Fix bug with (somewhat?) random segfaults
+- [ ] Implement CLI version of game
